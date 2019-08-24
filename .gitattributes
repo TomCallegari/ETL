@@ -1,1 +1,4 @@
 flights_clean.csv filter=lfs diff=lfs merge=lfs -text
+flights.csv filter=lfs diff=lfs merge=lfs -text
+globalterrorismdb_0718dist.csv filter=lfs diff=lfs merge=lfs -text
+terror_clean filter=lfs diff=lfs merge=lfs -text
