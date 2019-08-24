@@ -1,0 +1,37 @@
+date,state,city,success,suicide
+2015-01-06,Colorado,Colorado Springs,1,0
+2015-02-10,North Carolina,Chapel Hill,1,0
+2015-02-17,Florida,Melbourne,1,0
+2015-02-18,Michigan,Kalamazoo,1,0
+2015-02-23,Ohio,Kent,1,0
+2015-03-09,Nevada,Reno,1,0
+2015-03-20,Louisiana,New Orleans,1,0
+2015-05-03,Texas,Garland,1,0
+2015-06-17,South Carolina,Charleston,1,0
+2015-06-22,Tennessee,Knoxville,1,0
+2015-06-23,Georgia,Macon,1,0
+2015-06-24,North Carolina,Charlotte,1,0
+2015-06-26,South Carolina,Warrenville,1,0
+2015-07-15,Texas,Houston,1,0
+2015-07-16,Tennessee,Chattanooga,2,0
+2015-07-19,Illinois,Aurora,0,0
+2015-07-23,Louisiana,Lafayette,1,0
+2015-08-01,Louisiana,New Orleans,1,0
+2015-08-02,New Mexico,Las Cruces,2,0
+2015-08-14,New Mexico,Las Cruces,0,0
+2015-09-04,Washington,Pullman,1,0
+2015-09-13,Texas,Bullard,0,0
+2015-09-30,California,Thousand Oaks,1,0
+2015-10-01,Oregon,Roseburg,1,1
+2015-11-01,Mississippi,Tupelo,1,0
+2015-11-04,California,Merced,1,0
+2015-11-06,California,Ingelwood,1,0
+2015-11-15,Connecticut,Meriden,1,0
+2015-11-19,Virginia,Falls Church,1,0
+2015-11-23,Minnesota,Minneapolis,1,0
+2015-11-27,Colorado,Colorado Springs,1,0
+2015-12-02,California,San Bernardino,1,0
+2015-12-05,New York,New York City,1,0
+2015-12-08,North Dakota,Grand Forks,1,0
+2015-12-11,California,Coachella,1,0
+2015-12-26,California,Tracy,1,0
